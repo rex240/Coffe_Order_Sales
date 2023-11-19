@@ -1,4 +1,4 @@
-# Coffe_Order_Sales
+# Coffee_Order_Sales
 
 Hello everyone! 👋  I'm excited to share my most recent Excel experience, in which I converted raw data into a beautiful and useful display! 📊✨
 
